@@ -24,6 +24,6 @@
   },
   "include": [
     "src/**/*" // *** The files TypeScript should type check ***
-  ],
+, "../ddp/src/ManageErrors.jsx"  ],
   "exclude": ["node_modules", "build", "dist"]
 }
